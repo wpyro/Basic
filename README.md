@@ -1,4 +1,4 @@
-Basic
-=====
+About
+-----
 
-Personal WordPress Theme
+Basic is a responsive personal WordPress theme.
